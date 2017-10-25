@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://leelit.com/categories/</loc>
+    <loc>https://leelit-survey.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://leelit.com/</loc>
+    <loc>https://leelit-survey.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://leelit.com/tags/</loc>
+    <loc>https://leelit-survey.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
