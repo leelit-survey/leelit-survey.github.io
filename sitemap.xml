@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leelit-survey.github.io/posts/welcome_to_leelit/</loc>
+    <lastmod>2017-10-31T14:40:26+04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leelit-survey.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://leelit-survey.github.io/</loc>
+    <lastmod>2017-10-31T14:40:26+04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://leelit-survey.github.io/posts/</loc>
+    <lastmod>2017-10-31T14:40:26+04:00</lastmod>
     <priority>0</priority>
   </url>
   
